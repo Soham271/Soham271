@@ -11,9 +11,9 @@
 <img align="right" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" width="420" alt="coding-gif" style="margin-left: 170px;marigim-top:0" />
 
 <p align="left">
-  Hi, I'm Soham — currently pursuing an integrated B.Tech + M.Tech in Information Technology from IIIT Gwalior.<br><br>
-  I'm passionate about full-stack development, building modern web applications, and solving real-world problems through code.<br><br>
-  I love learning new technologies, contributing to open-source, and collaborating with developers worldwide.
+->  Hi, I'm Soham — currently pursuing an integrated B.Tech + M.Tech in Information Technology from IIIT Gwalior.<br><br>
+->  I'm passionate about full-stack development, building modern web applications, and solving real-world problems through code.<br><br>
+->  I love learning new technologies, contributing to open-source, and collaborating with developers worldwide.
 </p>
 
 ### 🧠 Tech Stack
