@@ -52,14 +52,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soham271&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham271&theme=radical" />
-</p>
-
----
 
 ### 🔥 Contribution Activity
 
