@@ -37,7 +37,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-%23006B75?style=for-the-badge)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
+![Redis](https://img.shields.io/badge/Redis-%2300758F?style=for-the-badge&logo=sqlite&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%2300758F?style=for-the-badge&logo=sqlite&logoColor=white)
 
 #### ⚙ DevOps & Tools
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
