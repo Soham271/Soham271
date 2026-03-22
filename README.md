@@ -124,13 +124,7 @@ fun_fact: "I debug code faster with chai ☕"
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Soham271&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" width="95%"/>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
@@ -162,12 +156,6 @@ fun_fact: "I debug code faster with chai ☕"
 
 ---
 
-<div align="center">
 
-### 💡 _"Code is like humor. When you have to explain it, it's bad."_ – Cory House
 
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-</div>
