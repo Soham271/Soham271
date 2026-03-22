@@ -150,9 +150,7 @@ fun_fact: "I debug code faster with chai ☕"
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="550"/>
-</div>
+>
 
 ---
 
