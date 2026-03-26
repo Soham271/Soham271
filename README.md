@@ -57,7 +57,7 @@ fun_fact: "I debug code faster with chai ☕"
 
 ### 👨‍💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,typescript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python,typescript,golang" alt="Languages" />
 </p>
 
 ### 🌐 Frontend
