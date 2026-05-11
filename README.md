@@ -154,17 +154,7 @@ const soham: SeniorEngineer = {
 
 ---
 
-## Engineering Principles
 
-```
-01  Design for failure first. Resilience is a feature, not an afterthought.
-02  Observability over debugging — structured logs, metrics, traces from day one.
-03  The best optimization is the one you don't need to write.
-04  Code reviews are collaborative design sessions, not gatekeeping.
-05  Ship incrementally. Large diffs are a smell, not a milestone.
-```
-
----
 
 ## Connect
 
@@ -181,11 +171,6 @@ const soham: SeniorEngineer = {
 
 <br/>
 
-<div align="center">
-
-*"The measure of a senior engineer isn't the complexity of what they build — it's the simplicity they leave behind."*
-
-</div>
 
 <br/>
 
