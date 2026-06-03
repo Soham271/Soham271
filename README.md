@@ -4,9 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Soham%20N%20Patil&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor&descSize=18&descAlignY=52" width="100%" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+scalable+full-stack+applications+%F0%9F%8F%97%EF%B8%8F;React+%7C+Node.js+%7C+MERN+Stack+Developer;Open+Source+Enthusiast+%26+Lifelong+Learner+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A960FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%8F%97%EF%B8%8F;Golang+%7C+React+%7C+Node.js+%7C+MERN+Stack+Developer;Open+Source+Enthusiast+%26+Lifelong+Learner+%E2%9A%A1" alt="Typing SVG" />
 
 <!-- Profile Views & Followers -->
+<br/>
 <br/>
 <a href="https://github.com/Soham271">
   <img src="https://komarev.com/ghpvc/?username=Soham271&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
@@ -44,7 +45,7 @@ interests:
   - Problem Solving
   - Building Dev Tools
 
-fun_fact: "I debug code faster with chai ☕"
+fun_fact: "I debug code faster when I am high"
 ```
 
 <br clear="both"/>
