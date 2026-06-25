@@ -45,7 +45,7 @@ interests:
   - Problem Solving
   - Building Dev Tools
 
-fun_fact: "I debug code faster when I am high"
+fun_fact: "I debug code faster when the caffeine hits"
 ```
 
 <br clear="both"/>
